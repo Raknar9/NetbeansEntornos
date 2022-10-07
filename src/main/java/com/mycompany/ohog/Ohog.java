@@ -12,6 +12,6 @@ package com.mycompany.ohog;
 public class Ohog {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hello World! ");
     }
 }
